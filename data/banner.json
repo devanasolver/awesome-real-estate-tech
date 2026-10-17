@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "LISTING",
+  "LEASE",
+  "TENANT",
+  "ZILLOW",
+  "COMPS",
+  "CAP-RATE",
+  "MORTGAGE",
+  "PARCEL",
+  "RENT",
+  "GEO",
+  "ZONING",
+  "ROI",
+  "DEED",
+  "MLS",
+  "FLIP",
+  "ESCROW"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Real Estate Tech",
+  ""
+ ],
+ "title_size": 88,
+ "sub1": "LISTINGS  |  RENTALS  |  DATA",
+ "sub2": "MAPS  |  VALUATION  |  INVESTING",
+ "foot": "Open-source real estate software, each checked for license and activity"
+}

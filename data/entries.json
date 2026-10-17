@@ -1,0 +1,226 @@
+[
+  {
+    "repo": "blender/blender",
+    "category": "3d",
+    "description": "Free and open-source 3D creation suite.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "FreeCAD/FreeCAD",
+    "category": "3d",
+    "description": "Free and open-source parametric 3D modeler.",
+    "license": "LGPL-2.1",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "google/model-viewer",
+    "category": "3d",
+    "description": "Easily display interactive 3D models on the web.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-09"
+  },
+  {
+    "repo": "mapillary/OpenSfM",
+    "category": "3d",
+    "description": "Open-source structure from motion library.",
+    "license": "BSD-2-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "mrdoob/three.js",
+    "category": "3d",
+    "description": "JavaScript 3D library.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openscad/openscad",
+    "category": "3d",
+    "description": "Programmer's solid 3D CAD modeler.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "actualbudget/actual",
+    "category": "calc",
+    "description": "Local-first personal finance app with envelope budgeting.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "firefly-iii/firefly-iii",
+    "category": "calc",
+    "description": "Free and open-source personal finance manager.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ghostfolio/ghostfolio",
+    "category": "calc",
+    "description": "Open-source wealth management software.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "numpy/numpy-financial",
+    "category": "calc",
+    "description": "Financial functions for NumPy: mortgage, NPV, IRR and more.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "apify/crawlee",
+    "category": "data",
+    "description": "Web scraping and browser automation library for Node.js.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "dgtlmoon/changedetection.io",
+    "category": "data",
+    "description": "Watch web pages for changes and price drops, self-hosted.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "scrapy/scrapy",
+    "category": "data",
+    "description": "Fast Python framework for crawling sites and extracting data.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "geopandas/geopandas",
+    "category": "geo",
+    "description": "Geospatial data with pandas.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "Leaflet/Leaflet",
+    "category": "geo",
+    "description": "JavaScript library for interactive maps.",
+    "license": "BSD-2-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "maplibre/maplibre-gl-js",
+    "category": "geo",
+    "description": "Open-source library for interactive vector maps.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openlayers/openlayers",
+    "category": "geo",
+    "description": "High-performance library for maps on the web.",
+    "license": "BSD-2-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openstreetmap/openstreetmap-website",
+    "category": "geo",
+    "description": "The Rails app behind openstreetmap.org.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "OSGeo/gdal",
+    "category": "geo",
+    "description": "Translator library for raster and vector geospatial data.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "osmcode/osmium-tool",
+    "category": "geo",
+    "description": "Command-line tool for working with OpenStreetMap data.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "Project-OSRM/osrm-backend",
+    "category": "geo",
+    "description": "Open-source routing engine for road networks.",
+    "license": "BSD-2-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "qgis/QGIS",
+    "category": "geo",
+    "description": "Free and open-source geographic information system.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "shapely/shapely",
+    "category": "geo",
+    "description": "Manipulation and analysis of planar geometric objects.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "shapely/shapely",
+    "category": "geo",
+    "description": "Manipulation and analysis of planar geometric objects in Python.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "uber/h3",
+    "category": "geo",
+    "description": "Hexagonal hierarchical geospatial indexing system.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "valhalla/valhalla",
+    "category": "geo",
+    "description": "Open-source routing engine with dynamic costing.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "frappe/erpnext",
+    "category": "pm",
+    "description": "Open-source ERP, with property and lease features through apps.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "odoo/odoo",
+    "category": "pm",
+    "description": "Open-source business apps, with real estate and rental modules.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  }
+]
